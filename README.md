@@ -1,2 +1,2 @@
 # file
-print("file")
+print('file')
